@@ -26,7 +26,7 @@
          <input type="password" class="form-control password">
         </strong>
         <strong>
-         <lable>ConformPassword</lable>
+         <lable>ConfirmPassword</lable>
          <input type="password" class="form-control confirmPassword">
         </strong>
         <button type="submit" class="button">Sign In</button>
